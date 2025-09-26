@@ -1,0 +1,50 @@
+[
+  {
+    "VNS_id": "0",
+    "VNS_tag": "C",
+    "VNS_clustername": "Challenges",
+    "VNS_color": "#D05459",
+    "VNS_desc": "Designers first emphasized that the public often pays limited attention to the physicalization at the outset of the exhibitions. After, designers observed that even when audiences are initially drawn to a physicalization, they may still lack willingness to contribute. Beyond attention and contribution, designers faced a deeper challenge that the public often struggles to develop a sense of connection to the physicalization.",
+    "VNS_num": "3"
+  },
+  {
+    "VNS_id": "1",
+    "VNS_tag": "S1",
+    "VNS_clustername": "S1: Fostering collective connection",
+    "VNS_color": "#c0c96f",
+    "VNS_desc": "Fostering collective connection strengthens the link between individual experience and public issues, enabling audiences to perceive data as personally and socially relevant.",
+    "VNS_num": "4"
+  },
+  {
+    "VNS_id": "2",
+    "VNS_tag": "S2",
+    "VNS_clustername": "S2: Lowering the barriers to participation",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Lowering the barriers to participation reduces practical and psychological obstacles, making it easier for people with diverse backgrounds and limited time to take part.",
+    "VNS_num": "4"
+  },
+  {
+    "VNS_id": "3",
+    "VNS_tag": "S3",
+    "VNS_clustername": "S3: Boosting motivation for engagement",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Boosting motivation for engagement increases the likelihood that audiences will not only stop but remain engaged.",
+    "VNS_num": "3"
+  },
+  {
+    "VNS_id": "4",
+    "VNS_tag": "S4",
+    "VNS_clustername": "S4: Employing public-friendly design",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Employing public-friendly design makes physicalization safer, more approachable, and more resonant, enabling them to function effectively in open public environments.",
+    "VNS_num": "4"
+  },
+  {
+    "VNS_id": "5",
+    "VNS_tag": "S5",
+    "VNS_clustername": "S5: Addressing public concerns",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Addressing public concerns focuses on psychological safety and fairness, ensuring that audiences feel secure and respected when contributing.",
+    "VNS_num": "3"
+  }
+]

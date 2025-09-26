@@ -1,0 +1,82 @@
+[
+  {
+    "VNS_id": "6",
+    "VNS_tag": "A1",
+    "VNS_clustername": "Stage · Theme",
+    "VNS_color": "#D05459",
+    "VNS_desc": "Theme refers to the core issue around which data physicalization is centered, which determines whether the public will develop interest and motivation to participate, and themes that align with social values and relates to everyday life is often more likely to attract voluntary engagement.",
+    "VNS_num": "6"
+  },
+  {
+    "VNS_id": "7",
+    "VNS_tag": "A2",
+    "VNS_clustername": "Stage · Audience",
+    "VNS_color": "#c0c96f",
+    "VNS_desc": "Audience refers to the groups of the public that physicalization targets and seeks to attract, which scope and characteristics directly influence the purpose of the design.",
+    "VNS_num": "2"
+  },
+  {
+    "VNS_id": "8",
+    "VNS_tag": "A3",
+    "VNS_clustername": "Stage · Venue",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Venue refers to the environment or place where a physicalization is exhibited, which shapes the accessibility of public engagement and the ways in which it is experienced.",
+    "VNS_num": "3"
+  },
+  {
+    "VNS_id": "9",
+    "VNS_tag": "A4",
+    "VNS_clustername": "Encounter · Data source",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Data source refers to the channels through which data for physicalization is obtained, which determine the authenticity and relevance of the information.",
+    "VNS_num": "2"
+  },
+  {
+    "VNS_id": "10",
+    "VNS_tag": "A5",
+    "VNS_clustername": "Encounter · Data provision",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Data provision refers to the ways in which the public provides information during data collection, which reflects public’s initiatives and rights to be informed.",
+    "VNS_num": "2"
+  },
+  {
+    "VNS_id": "11",
+    "VNS_tag": "A6",
+    "VNS_clustername": "Encounter · Data flow",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Data flow refers to the temporal scope when the public contributes data„ which determines the update status of the physicalization.",
+    "VNS_num": "2"
+  },
+  {
+    "VNS_id": "12",
+    "VNS_tag": "A7",
+    "VNS_clustername": "Encounter · Design participation",
+    "VNS_color": "#D05459",
+    "VNS_desc": "Design participation refers to the ways that the public make decisions on designing a physicalization, which shapes the type of agency in the process.",
+    "VNS_num": "2"
+  },
+  {
+    "VNS_id": "13",
+    "VNS_tag": "A8",
+    "VNS_clustername": "Encounter · Interaction motivation",
+    "VNS_color": "#c0c96f",
+    "VNS_desc": "Interaction motivation refers to the drivers of public engagement with a physicalization, which determine how and to what extent the public interacts.",
+    "VNS_num": "2"
+  },
+  {
+    "VNS_id": "14",
+    "VNS_tag": "A9",
+    "VNS_clustername": "Encounter · Contribution behavior",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Contribution behavior refers to the specific actions through which audiences alter or affect the physicalization, which highlight the tangible forms of engagement.",
+    "VNS_num": "4"
+  },
+  {
+    "VNS_id": "15",
+    "VNS_tag": "A10",
+    "VNS_clustername": "Impact",
+    "VNS_color": "#f5c8c0",
+    "VNS_desc": "Impact refers to the anticipated consequences of public engagement, capturing the cognitive, behavioral, and social effects that arise from participation.",
+    "VNS_num": "9"
+  }
+]
